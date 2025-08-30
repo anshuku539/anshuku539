@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Under graduated in Bachelor of Computer Application from Punjab Technical University <br>💡 Passionate about Software Development and eager to apply my knowledge in a professional setting<br>🔍 Key skills: MS-Office, C Language, C++ Language, HTML, CSS<br>🚀 Eager to learn and adapt to new challenges, technologies, and industry trends<br>🤝 Looking for opportunities that allow me to contribute, grow, and collaborate with professionals in the field
+🎓Student of BCA at Amritsar Group of Colleges | Placement Coordinator & Co-Convenor <br>💡 Passionate about Software Development and eager to apply my knowledge in a professional setting<br>🔍 Key skills: MS-Office, C Language, C++ Language, HTML, CSS<br>🚀 Eager to learn and adapt to new challenges, technologies, and industry trends<br>🤝 Looking for opportunities that allow me to contribute, grow, and collaborate with professionals in the field
 
 
 ## 🌐 Socials:
