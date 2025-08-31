@@ -1,5 +1,7 @@
+# Hi I'm Anshu Kumar
+🎓Student of BCA at Amritsar Group of Colleges | Placement Coordinator & Co-Convenor |
 # 💫 About Me:
-🎓Student of BCA at Amritsar Group of Colleges | Placement Coordinator & Co-Convenor <br>💡 Passionate about Software Development and eager to apply my knowledge in a professional setting<br>🔍 Key skills: MS-Office, C Language, C++ Language, HTML, CSS<br>🚀 Eager to learn and adapt to new challenges, technologies, and industry trends<br>🤝 Looking for opportunities that allow me to contribute, grow, and collaborate with professionals in the field
+💡 Passionate about Software Development and eager to apply my knowledge in a professional setting<br>🔍 Key skills: MS-Office, C Language, C++ Language, HTML, CSS<br>🚀 Eager to learn and adapt to new challenges, technologies, and industry trends<br>🤝 Looking for opportunities that allow me to contribute, grow, and collaborate with professionals in the field
 
 
 ## 🌐 Socials:
