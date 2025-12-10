@@ -1,35 +1,96 @@
-# Hi I'm Anshu Kumar
-🎓Student of BCA at Amritsar Group of Colleges | Placement Coordinator & Co-Convenor |
-# 💫 About Me:
-💡 Passionate about Software Development and eager to apply my knowledge in a professional setting<br>🔍 Key skills: MS-Office, C Language, C++ Language, HTML, CSS, JavaScript<br>🚀 Eager to learn and adapt to new challenges, technologies, and industry trends<br>🤝 Looking for opportunities that allow me to contribute, grow, and collaborate with professionals in the field
+# 👋 Hi, I'm Anshu Kumar
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skyasthetic_35) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshukumar539) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshuku539@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anshuku539&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anshuku539&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuku539&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 BCA Student @ Amritsar Group of Colleges  
+🧭 Placement Coordinator & Co-Convenor  
+💻 Aspiring Full-Stack Developer  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anshuku539&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+## 🧠 Who Am I?
 
-<!--
-**anshuku539/anshuku539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Applications student building **real technical skills**, not just certificates.  
+I focus on **logic, consistency, and practical problem-solving**.
 
-Here are some ideas to get you started:
+My goal is simple:  
+👉 become **industry-ready**, not just degree-ready.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshuku539&theme=onedark&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+- C
+- C++
+- Python
+- JavaScript
+
+### 🌐 Web
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+### 🧰 Tools & Concepts
+- Git & GitHub
+- MS Office
+- OOP Basics
+- Problem Solving
+- Debugging
+
+---
+
+## 📌 Currently Focusing On
+- Writing **clean & readable code**
+- Improving **DSA + logic building**
+- Building **mini projects** (not copy-paste)
+- Preparing for **internships & placements**
+
+---
+
+## 🚀 Projects (Coming Soon)
+✅ C / C++ Mini Projects  
+✅ JavaScript Based Projects  
+✅ Personal Portfolio Website  
+
+> I believe in **learning → building → improving**, not rushing.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshuku539&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anshuku539&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuku539&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/anshukumar539  
+- 📸 Instagram: https://instagram.com/skyasthetic_35  
+- 📧 Email: **anshuku539@gmail.com**
+
+---
+
+### ⚡ Mindset
+Skills don’t come from motivation.  
+They come from **showing up daily and writing bad code until it becomes good code**.
+
+---
+
+![](https://visitcount.itsvg.in/api?id=anshuku539&icon=5&color=6)
