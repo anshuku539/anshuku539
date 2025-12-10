@@ -1,65 +1,71 @@
-# 👋 Hi, I'm Anshu Kumar
-
-🎓 BCA Student @ Amritsar Group of Colleges  
-🧭 Placement Coordinator & Co-Convenor  
-💻 Aspiring Full-Stack Developer  
+<h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
+<h3 align="center">BCA Student | Placement Coordinator | Aspiring Full-Stack Developer</h3>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-I’m a Computer Applications student building **real technical skills**, not just certificates.  
-I focus on **logic, consistency, and practical problem-solving**.
+🎓 Bachelor of Computer Applications student at **Amritsar Group of Colleges**  
+🧭 Placement Coordinator & Co-Convenor  
+💻 Focused on **building strong programming fundamentals and real-world skills**
 
-My goal is simple:  
-👉 become **industry-ready**, not just degree-ready.
+I believe in:
+- ✅ Logic over shortcuts  
+- ✅ Skills over certificates  
+- ✅ Consistency over motivation  
+
+Currently working on **programming, problem-solving, and web development**, with the goal of becoming **industry-ready before graduation**.
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshuku539&theme=onedark&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anshuku539&theme=radical&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 👨‍💻 Languages
-- C
-- C++
-- Python
-- JavaScript
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
 
-### 🌐 Web
-- HTML5
-- CSS3
-- JavaScript (ES6)
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ### 🧰 Tools & Concepts
-- Git & GitHub
-- MS Office
-- OOP Basics
-- Problem Solving
-- Debugging
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+</p>
 
 ---
 
 ## 📌 Currently Focusing On
-- Writing **clean & readable code**
-- Improving **DSA + logic building**
-- Building **mini projects** (not copy-paste)
+- Strengthening **C / C++ & DSA basics**
+- Writing **clean and understandable code**
+- Building **small but meaningful projects**
 - Preparing for **internships & placements**
 
 ---
 
-## 🚀 Projects (Coming Soon)
+## 🚀 Projects Roadmap
 ✅ C / C++ Mini Projects  
-✅ JavaScript Based Projects  
+✅ JavaScript Logic-Based Projects  
 ✅ Personal Portfolio Website  
+✅ Academic + Practical Hybrid Projects  
 
-> I believe in **learning → building → improving**, not rushing.
+> I prefer **progress over perfection**.
 
 ---
 
@@ -80,17 +86,24 @@ My goal is simple:
 ---
 
 ## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/anshukumar539  
-- 📸 Instagram: https://instagram.com/skyasthetic_35  
-- 📧 Email: **anshuku539@gmail.com**
+<p>
+  <a href="https://linkedin.com/in/anshukumar539">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anshuku539@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/skyasthetic_35">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### ⚡ Mindset
-Skills don’t come from motivation.  
-They come from **showing up daily and writing bad code until it becomes good code**.
+### ⚡ Final Note
+I’m not chasing trends.  
+I’m building **skills that won’t expire**.
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=anshuku539&icon=5&color=6)
+![](https://visitcount.itsvg.in/api?id=anshuku539&icon=6&color=6)
