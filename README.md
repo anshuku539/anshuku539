@@ -14,7 +14,7 @@
   <a href="mailto:anshuku539@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/skyasthetic_35">
+  <a href="https://instagram.com/its_ansh.sky">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=anshuku539&style=flat&color=6f42c1" alt="profile views" />
