@@ -112,7 +112,7 @@ Currently working on **programming, problem-solving, and web development** — a
   <a href="mailto:anshuku539@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/skyasthetic_35">
+  <a href="https://instagram.com/its_ansh.sky">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
